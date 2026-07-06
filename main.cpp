@@ -11,7 +11,7 @@ int main() {
 
     string name = "Nothing Else Matters";
     string id = "24-09876-9";
-    string section = "A";
+    string section = "z";
 
     // ==========================
     // Personal Information
